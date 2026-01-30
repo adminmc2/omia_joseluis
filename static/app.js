@@ -3007,7 +3007,7 @@ async function handleDemoOrbClick() {
     // Immediate visual feedback — activate 3D orb animation instantly
     if (window.orbSetListening) window.orbSetListening(true);
 
-    const greetingText = 'Muchas gracias José Luis por la oportunidad de conocernos. Me han dicho que te he causado una buena impresión. Recuerda que estaré siempre a tu disposición y será un placer que colaboremos juntos.';
+    const greetingText = 'Hola José Luis, un placer saludarte! Pablo está muy entusiasmado de reunirse contigo y mostrarte una parte del futuro. El sector salud evoluciona y juntos podemos transformar la gestión de equipos de ventas con herramientas de IA integradas en el ADN de tu compañía. Me llamo Omia y he sido creada por Prisma Consul. ¿Vemos cómo la complejidad se convierte en claridad?';
 
     try {
         // Play TTS greeting and wait for it to finish
